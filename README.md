@@ -1,3 +1,6 @@
+> This repository was created as part of a technical test assignment.
+> It demonstrates system design and AI integration patterns.
+
 # AI Content Analysis Service
 
 Async backend service for analyzing Instagram/TikTok creator content using AI-powered moderation and summarization.
